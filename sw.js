@@ -1,7 +1,7 @@
 // EC225 Cat A Helipad Max Landing - Service Worker
 // Caches the app for full offline use after first load
 
-const CACHE_NAME = 'ec225-ca-helipad-v8';
+const CACHE_NAME = 'ec225-ca-helipad-v9';
 const FILES_TO_CACHE = [
   './',
   './index.html'
